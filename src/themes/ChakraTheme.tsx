@@ -1,5 +1,4 @@
-// src/themes/ChakraTheme.tsx
-// Importa las utilidades correctas para Chakra UI v3 (Panda CSS)
+
 import { createSystem, defaultConfig, defineConfig, mergeConfigs } from '@chakra-ui/react';
 
 const theme = defineConfig({
